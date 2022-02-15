@@ -1,5 +1,3 @@
-# README 
-
 This is a simple Java based web application. 
 
 This application helps to register a new user from the web browser. 
